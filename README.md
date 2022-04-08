@@ -1,5 +1,15 @@
 # Jekari Rawls
 
+Hello I am Jekari Rawls. I am a Computer Science student at Queens College. I am intersted in pursuing Website Development.
+
+## 💻 Technical Skills
+* HTML
+* CSS
+* JavaScript
+* Java
+* C++
+
+
 
 
 <!--
