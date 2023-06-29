@@ -1,7 +1,7 @@
 # Jekari Rawls
 <img src="images/work-computer.gif" alt="Computer gif">
 
-Hello I am Jekari Rawls. I am a Computer Science student at Queens College. I am intersted in pursuing Web Development.
+Hello I am Jekari Rawls. I am a Computer Science graduate from Queens College. I am intersted in pursuing Software Development/Wb Development/Frontend Development.
 
 ## 💻 Technical Skills
 * HTML
@@ -9,6 +9,7 @@ Hello I am Jekari Rawls. I am a Computer Science student at Queens College. I am
 * JavaScript
 * Java
 * C++
+* SQL
 
 
 
